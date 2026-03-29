@@ -42,4 +42,5 @@ Button Input → Game Logic → Board Update → VGA Display
 - VGA display shows updated game board instantly
 
 ## Demo
-(You can add a demo video link here)
+[(You can add a demo video link here)
+](https://drive.google.com/file/d/1P3UjsAK0TmJTQwda9dtw_CHRdUI8Gaqi/view?usp=sharing)<img width="1789" height="88" alt="image" src="https://github.com/user-attachments/assets/acfa0e12-82be-4bee-9545-87959e6d65f0" />
